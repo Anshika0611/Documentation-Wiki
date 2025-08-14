@@ -1,0 +1,21 @@
+[
+  {
+    "keyword": "react",
+    "title": "React",
+    "description": "A JavaScript library for building user interfaces."
+  },
+  {
+    "keyword": "javascript",
+    "title": "JavaScript",
+    "description": "A high-level, interpreted programming language."
+  },
+  {
+    "keyword":"node.js",
+    "title": "Node.js", 
+    "description": "A JavaScript runtime built on Chrome's V8 JavaScript engine."
+  },{
+    "keyword":"docs",
+    "title": "Documentation",
+    "description": "Official documentation for various programming languages and frameworks."
+  }
+]
